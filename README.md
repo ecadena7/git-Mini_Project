@@ -7,13 +7,13 @@ In this mini-project, you will build a landing page using HTML and CSS. While yo
 Work in your group to implement the following user stories:
 
 * As a client, I want to view a single webpage that collects a visitor's contact information.
-
+<!--Completed-->
 * As a client, I want the landing page to have a header and footer.
-
+<!--completed. remember, these two items NEED to be within the <body> elelment. -->
 * As a client, I want the landing page to have an image with a caption.
-
+<!--Completed-->
 * As a client, I want the landing page to have a contact form.
-
+<!--Completed -->
 * As a client, I want the landing page to have a polished and accessible UI.
 
 ## Acceptance Criteria
@@ -25,13 +25,13 @@ Work in your group to implement the following user stories:
 * It's done when the page features at least three colors in the design.
 
 * It's done when the page uses a single font and font family for all text.
-
+    <!--this is will be part of the "element selector" -->
 * It's done when the page uses at least two heading elements (`<h1>` through `<h6>`).
 
 * It's done when the header is fixed to the top of the page on scroll.
-
+    <!-- this use attribute "position: fixed" lesson plan 01.3-->
 * It's done when the header contains a navigation bar with three links that display inline, including a contact link.
-
+    <!-- reference the student bio practice "contact Info". this was part of lesson plan 01.2 -->
 * It's done when, if the contact link is clicked, the page jumps directly to the contact form.
 
 * It's done when the contact form includes `input` elements for name and email.
